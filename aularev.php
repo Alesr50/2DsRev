@@ -14,7 +14,7 @@ echo "</br>";
 echo $valorreal;
 echo "</br>";
 
-$var = 11;
+$var = xx;
 
 echo "O valor é  ".$var;
 echo "</br>";
@@ -33,7 +33,7 @@ if($var==10){
     echo 10+10;
 }
 echo "</br>";
-$testeswitch="azul";
+$testeswitch="xxxx";
 
 switch ($testeswitch){
     case "vermelho":
