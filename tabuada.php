@@ -10,7 +10,7 @@
 
 
 <?php
- for($i=1;$i<=12;$i++){
+ for($i=xx;$i<=xx;$i++){
       for($j=0;$j<=10;$j++){
          echo "$i x $j =".$i*$j."</br>";
       }
@@ -19,7 +19,7 @@
  }
  $i=0;
  
-  while($i<10) {     
+  while($i<xx) {     
 
     echo "i é igual a ".($i)."</br>";    
     $i++;
