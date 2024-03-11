@@ -9,9 +9,9 @@
 
 <?php
 
-$op="/";
-$x=10;
-$y=0;
+$op="";
+$x=xxx;
+$y=xx;
 
 switch ($op){
     case "+":
@@ -37,8 +37,8 @@ switch ($op){
 echo "</br>";
 
 
-$opc="Arvore";
-$valor=81;
+$opc="";
+$valor=xx;
 switch($opc){
     case "Arvore":
         echo "A raiz é ".(sqrt($valor));
