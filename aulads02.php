@@ -1,6 +1,6 @@
 <?php
 
-$op="/";
+$op="";
 
 switch($op){
     case "-":
@@ -30,7 +30,7 @@ switch ($testeswitch){
 }
 echo "</br>";
 
-$testeswitchN=1;
+$testeswitchN=xzx;
 
 switch ($testeswitchN){
     case 1:
@@ -46,9 +46,9 @@ switch ($testeswitchN){
 echo "</br>";
 
 //calculador php
-$a=10;
+$a=x;
 $b=0;
-$op="/";
+$op="";
 
 switch($op){
     case "+":
